@@ -1,0 +1,12 @@
+{
+  "games": [
+    {
+      "id": "semitone-resonance",
+      "manifest_url": "https://raw.githubusercontent.com/DomDotDot/BrightestNeonLauncher-CDN/main/games/semitone-resonance/manifest.json"
+    },
+    {
+      "id": "tandem-date",
+      "manifest_url": "https://raw.githubusercontent.com/DomDotDot/BrightestNeonLauncher-CDN/main/games/tandem-date/manifest.json"
+    }
+  ]
+}
