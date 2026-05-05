@@ -1,0 +1,29 @@
+{
+  "id": "tandem-date",
+  "title": "The Brightest Neon — Tandem Date",
+  "short_title": "Tandem Date",
+  "latest_version": "0.1.2a",
+  "executable": "TANDEM.exe",
+  "install_dir": "TANDEM",
+  "icon_url": "https://raw.githubusercontent.com/DomDotDot/BrightestNeonLauncher-CDN/main/games/tandem-date/icon.png",
+  "logo_url": "https://raw.githubusercontent.com/DomDotDot/BrightestNeonLauncher-CDN/main/games/tandem-date/logo.png",
+  "background_url": "https://raw.githubusercontent.com/DomDotDot/BrightestNeonLauncher-CDN/main/games/tandem-date/background.jpg",
+  "download_url": "https://github.com/DomDotDot/DoctorNeonPrototype/releases/latest",
+  "dlc": [],
+  "languages": [
+    {
+      "name": "Русский",
+      "code": null,
+      "flag": "🇷🇺"
+    },
+    {
+      "name": "English",
+      "code": "english_us",
+      "flag": "🇺🇸"
+    }
+  ],
+  "social_links": {
+    "discord": "https://discord.gg/VP9NbSu8Rj"
+  },
+  "news": []
+}
