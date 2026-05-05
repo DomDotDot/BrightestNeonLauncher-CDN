@@ -4,14 +4,11 @@
   "short_title": "Semitone Resonance",
   "latest_version": "0.7.4-early",
   "executable": "DoctorNeonPrototype.exe",
-  "install_dir": "DoctorNeonPrototype",
-  
+  "install_dir": "SemitoneResonance",
   "icon_url": "https://raw.githubusercontent.com/DomDotDot/BrightestNeonLauncher-CDN/main/games/semitone-resonance/icon.png",
   "logo_url": "https://raw.githubusercontent.com/DomDotDot/BrightestNeonLauncher-CDN/main/games/semitone-resonance/logo.png",
   "background_url": "https://raw.githubusercontent.com/DomDotDot/BrightestNeonLauncher-CDN/main/games/semitone-resonance/background.jpg",
-  
   "download_url": "https://github.com/DomDotDot/DoctorNeonPrototype/releases/latest",
-  
   "dlc": [
     {
       "id": "assets",
@@ -24,16 +21,21 @@
       "size_mb": 234
     }
   ],
-  
   "languages": [
-    { "name": "Русский", "code": null, "flag": "🇷🇺" },
-    { "name": "English", "code": "english_us", "flag": "🇺🇸" }
+    {
+      "name": "Русский",
+      "code": null,
+      "flag": "🇷🇺"
+    },
+    {
+      "name": "English",
+      "code": "english_us",
+      "flag": "🇺🇸"
+    }
   ],
-  
   "social_links": {
     "discord": "https://discord.gg/VP9NbSu8Rj"
   },
-  
   "news": [
     {
       "type": "news",
