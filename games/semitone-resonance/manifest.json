@@ -1,0 +1,51 @@
+{
+  "id": "semitone-resonance",
+  "title": "The Brightest Neon — Semitone Resonance",
+  "short_title": "Semitone Resonance",
+  "latest_version": "0.7.4-early",
+  "executable": "DoctorNeonPrototype.exe",
+  "install_dir": "DoctorNeonPrototype",
+  
+  "icon_url": "https://raw.githubusercontent.com/DomDotDot/BrightestNeonLauncher-CDN/main/games/semitone-resonance/icon.png",
+  "logo_url": "https://raw.githubusercontent.com/DomDotDot/BrightestNeonLauncher-CDN/main/games/semitone-resonance/logo.png",
+  "background_url": "https://raw.githubusercontent.com/DomDotDot/BrightestNeonLauncher-CDN/main/games/semitone-resonance/background.jpg",
+  
+  "download_url": "https://github.com/DomDotDot/DoctorNeonPrototype/releases/latest",
+  
+  "dlc": [
+    {
+      "id": "assets",
+      "title": "Полный пакет ресурсов",
+      "title_en": "Full Asset Pack",
+      "desc": "Звуки, музыка и озвучка",
+      "desc_en": "Sound, music and voice acting",
+      "download_url": "https://github.com/DomDotDot/DoctorNeonPrototype/releases/download/v0.7.0r/assets.zip",
+      "manifest_file": "dlc_manifest.json",
+      "size_mb": 234
+    }
+  ],
+  
+  "languages": [
+    { "name": "Русский", "code": null, "flag": "🇷🇺" },
+    { "name": "English", "code": "english_us", "flag": "🇺🇸" }
+  ],
+  
+  "social_links": {
+    "discord": "https://discord.gg/VP9NbSu8Rj"
+  },
+  
+  "news": [
+    {
+      "type": "news",
+      "title": "Semitone Resonance v0.7.4-early",
+      "date": "2026-05-05",
+      "url": ""
+    },
+    {
+      "type": "news",
+      "title": "Новый DLC-пакет ресурсов",
+      "date": "2026-05-01",
+      "url": ""
+    }
+  ]
+}

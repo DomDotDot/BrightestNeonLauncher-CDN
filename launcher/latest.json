@@ -1,0 +1,11 @@
+{
+  "version": "1.0.0",
+  "notes": "Первый релиз лаунчера Brightest Neon",
+  "pub_date": "2026-05-05T00:00:00Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "",
+      "url": "https://github.com/DomDotDot/BrightestNeonLauncher/releases/download/v1.0.0/BrightestNeonLauncher_1.0.0_x64-setup.exe"
+    }
+  }
+}
