@@ -8,6 +8,7 @@
   "icon_url": "https://raw.githubusercontent.com/DomDotDot/BrightestNeonLauncher-CDN/main/games/tandem-date/icon.png",
   "logo_url": "https://raw.githubusercontent.com/DomDotDot/BrightestNeonLauncher-CDN/main/games/tandem-date/logo.png",
   "background_url": "https://raw.githubusercontent.com/DomDotDot/BrightestNeonLauncher-CDN/main/games/tandem-date/background.jpg",
+  "banner_url": "https://raw.githubusercontent.com/DomDotDot/BrightestNeonLauncher-CDN/main/games/tandem-date/banner.png",
 "download_url_template": "https://github.com/DomDotDot/TANDEM/releases/download/v{version}/TANDEM-{version}-win.zip",
   "dlc": [],
   "languages": [
