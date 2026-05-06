@@ -2,7 +2,7 @@
   "id": "semitone-resonance",
   "title": "The Brightest Neon — Semitone Resonance",
   "short_title": "Semitone Resonance",
-  "latest_version": "0.7.3",
+  "latest_version": "0.7.7",
   "executable": "DoctorNeonPrototype.exe",
   "install_dir": "SemitoneResonance",
   "icon_url": "https://raw.githubusercontent.com/DomDotDot/BrightestNeonLauncher-CDN/main/games/semitone-resonance/icon.png",
@@ -42,9 +42,9 @@
   "news": [
     {
       "type": "news",
-      "title": "Semitone Resonance v0.7.4-early",
+      "title": "Semitone Resonance v0.7.7",
       "date": "2026-05-05",
-      "url": ""
+      "url": "https://github.com/DomDotDot/DoctorNeonPrototype/releases/tag/v0.7.7"
     },
     {
       "type": "news",
