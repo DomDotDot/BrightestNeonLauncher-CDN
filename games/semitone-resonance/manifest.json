@@ -10,6 +10,7 @@
   "background_url": "https://raw.githubusercontent.com/DomDotDot/BrightestNeonLauncher-CDN/main/games/semitone-resonance/background.jpg",
   "banner_url": "https://raw.githubusercontent.com/DomDotDot/BrightestNeonLauncher-CDN/main/games/semitone-resonance/banner.png",
   "download_url_template": "https://github.com/DomDotDot/DoctorNeonPrototype/releases/download/v{version}/DoctorNeonPrototype-{version}-stable-win.zip",
+  "content_warning_url": "https://raw.githubusercontent.com/DomDotDot/BrightestNeonLauncher-CDN/main/games/semitone-resonance/warning.txt",
   "dlc": [
     {
       "id": "assets",
