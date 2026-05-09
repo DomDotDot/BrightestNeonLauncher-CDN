@@ -1,0 +1,33 @@
+{
+  "id": "squad-eclipsis",
+  "title": "The Brightest Neon — Squad Eclipsis",
+  "short_title": "Squad Eclipsis",
+  "latest_version": "IN DEVELOPMENT",
+  "executable": "",
+  "install_dir": "SquadEclipsis",
+  "icon_url": "https://raw.githubusercontent.com/DomDotDot/BrightestNeonLauncher-CDN/main/games/squad-eclipsis/icon.png",
+  "logo_url": "https://raw.githubusercontent.com/DomDotDot/BrightestNeonLauncher-CDN/main/games/squad-eclipsis/logo.png",
+  "background_url": "https://raw.githubusercontent.com/DomDotDot/BrightestNeonLauncher-CDN/main/games/squad-eclipsis/background.jpg",
+  "banner_url": "https://raw.githubusercontent.com/DomDotDot/BrightestNeonLauncher-CDN/main/games/squad-eclipsis/banner.png",
+  "download_url_template": "",
+  "content_warning_url": "https://raw.githubusercontent.com/DomDotDot/BrightestNeonLauncher-CDN/main/games/squad-eclipsis/warning.txt",
+  "dlc": [
+  ],
+  "languages": [
+    {
+      "name": "Русский",
+      "code": "Originallium",
+      "flag": "🇷🇺"
+    },
+    {
+      "name": "English",
+      "code": "english_us",
+      "flag": "🇺🇸"
+    }
+  ],
+  "social_links": {
+    "discord": "https://discord.gg/VP9NbSu8Rj"
+  },
+  "news": [
+  ]
+}
