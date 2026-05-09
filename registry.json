@@ -7,6 +7,10 @@
     {
       "id": "tandem-date",
       "manifest_url": "https://raw.githubusercontent.com/DomDotDot/BrightestNeonLauncher-CDN/main/games/tandem-date/manifest.json"
+    },
+    {
+      "id": "squad-eclipsis",
+      "manifest_url": "https://raw.githubusercontent.com/DomDotDot/BrightestNeonLauncher-CDN/main/games/squad-eclipsis/manifest.json"
     }
   ]
 }
