@@ -49,7 +49,8 @@
     },
     {
       "type": "news",
-      "title": "Новый DLC-пакет ресурсов",
+      "title_ru": "Новый DLC-пакет ресурсов",
+      "title_en": "New DLC Asset Pack",
       "date": "2026-05-01",
       "url": ""
     }
