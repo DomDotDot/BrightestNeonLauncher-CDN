@@ -10,7 +10,7 @@
   "background_url": "https://raw.githubusercontent.com/DomDotDot/BrightestNeonLauncher-CDN/main/games/semitone-resonance/background.jpg",
   "banner_url": "https://raw.githubusercontent.com/DomDotDot/BrightestNeonLauncher-CDN/main/games/semitone-resonance/banner.png",
   "download_url_template": "https://github.com/DomDotDot/DoctorNeonPrototype/releases/download/v{version}/DoctorNeonPrototype-{version}-stable-win.zip",
-  "sha256": "sha256:ea87585ea4ba0ec6904cc28b271437b6bb4943c12c36b83bd08c92bedec186fc", 
+  "sha256": "ea87585ea4ba0ec6904cc28b271437b6bb4943c12c36b83bd08c92bedec186fc", 
   "content_warning_url_ru": "https://raw.githubusercontent.com/DomDotDot/BrightestNeonLauncher-CDN/main/games/semitone-resonance/warning_ru.txt",
   "content_warning_url_en": "https://raw.githubusercontent.com/DomDotDot/BrightestNeonLauncher-CDN/main/games/semitone-resonance/warning_en.txt",
   "dlc": [
@@ -21,7 +21,7 @@
       "desc": "Звуки, музыка и озвучка",
       "desc_en": "Sound, music and voice acting",
       "download_url": "https://github.com/DomDotDot/DoctorNeonPrototype/releases/download/v0.7.3/assets.zip",
-      "sha256": "sha256:18b9b966c2acac4e3bb4c72e27c563f4979fe4491c1b7f49a7dc7bf86c2ef8a1",
+      "sha256": "18b9b966c2acac4e3bb4c72e27c563f4979fe4491c1b7f49a7dc7bf86c2ef8a1",
       "manifest_file": "dlc_manifest.json",
       "size_mb": 234
     }
