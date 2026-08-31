@@ -2,7 +2,7 @@
   "id": "semitone-resonance",
   "title": "The Brightest Neon — Semitone Resonance",
   "short_title": "Semitone Resonance",
-  "latest_version": "0.7.7",
+  "latest_version": "0.8.0",
   "executable": "DoctorNeonPrototype.exe",
   "install_dir": "SemitoneResonance",
   "icon_url": "https://raw.githubusercontent.com/DomDotDot/BrightestNeonLauncher-CDN/main/games/semitone-resonance/icon.png",
@@ -10,7 +10,7 @@
   "background_url": "https://raw.githubusercontent.com/DomDotDot/BrightestNeonLauncher-CDN/main/games/semitone-resonance/background.jpg",
   "banner_url": "https://raw.githubusercontent.com/DomDotDot/BrightestNeonLauncher-CDN/main/games/semitone-resonance/banner.png",
   "download_url_template": "https://github.com/DomDotDot/DoctorNeonPrototype/releases/download/v{version}/DoctorNeonPrototype-{version}-stable-win.zip",
-  "sha256": "ea87585ea4ba0ec6904cc28b271437b6bb4943c12c36b83bd08c92bedec186fc", 
+  "sha256": "",
   "content_warning_url_ru": "https://raw.githubusercontent.com/DomDotDot/BrightestNeonLauncher-CDN/main/games/semitone-resonance/warning_ru.txt",
   "content_warning_url_en": "https://raw.githubusercontent.com/DomDotDot/BrightestNeonLauncher-CDN/main/games/semitone-resonance/warning_en.txt",
   "dlc": [
